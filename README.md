@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Marina Cindra
 
-**`Desenvolvedora FullStack`**
+**`QA - Analista de Qualidade de Softwares e Consultora de TI`**
 
 Me chamo Marina Cindra, Concluí meu bacharel em Engenharia da Computação e MBA em gestão de projetos de TI. Possuo experiência profissional em: Suporte TI e Consultoria de TI.
 Atualmente desenvolvo projetos automatizados para teste de software, no entanto tenho conhecimento em demais tecnologias, metodologias, ferramentas e desenvolvimento.
