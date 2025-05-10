@@ -90,11 +90,11 @@ Me chamo Marina Cindra, Concluí meu bacharel em Engenharia da Computação e MB
 
 <img 
     align="left" 
-    alt="JQuery" 
-    title="JQuery"
+    alt="Postman" 
+    title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" />
 <img 
     align="left" 
     alt="Git" 
