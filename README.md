@@ -45,8 +45,8 @@ Me chamo Marina Cindra, Concluí meu bacharel em Engenharia da Computação e MB
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
