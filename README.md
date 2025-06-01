@@ -37,13 +37,15 @@ Atualmente desenvolvo projetos automatizados para teste de software, no entanto 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="C++" 
+    title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
 <img 
     align="left" 
     alt="Linux" 
@@ -92,6 +94,14 @@ Atualmente desenvolvo projetos automatizados para teste de software, no entanto 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img 
     align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+    
+<img 
+    align="left" 
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
@@ -112,14 +122,6 @@ Atualmente desenvolvo projetos automatizados para teste de software, no entanto 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
-<img 
-    align="left" 
-    alt="C++" 
-    title="C++"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 
 <img 
     align="left" 
