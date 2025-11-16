@@ -5,7 +5,7 @@
 Me chamo Marina Cindra, Concluí meu bacharel em Engenharia da Computação e MBA em gestão de projetos de TI. Possuo experiência profissional em: Suporte TI e Consultoria de TI.
 Atualmente desenvolvo projetos automatizados para teste de software, no entanto tenho conhecimento em demais tecnologias, metodologias, ferramentas e desenvolvimento.
 
-Portfolio: https://maricindra.github.io/PortfolioQA_react_vite_tailwind
+Portfolio: https://maricindra.github.io/Portfolio_QA
 
 ### 🤖 Linguagens e Tecnologias
 
