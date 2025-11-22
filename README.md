@@ -144,11 +144,11 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Angular" 
-    title="Angular"
+    alt="Cypress" 
+    title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original-wordmark.svg)" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
 
 <br/>
 <br/>
