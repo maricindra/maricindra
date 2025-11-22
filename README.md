@@ -148,7 +148,7 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
     title="Cypress"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypress/cypress-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 
 <br/>
 <br/>
