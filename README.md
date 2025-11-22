@@ -1,11 +1,9 @@
 # 👩🏻‍💻 Marina Cindra
 
-**`QA - Analista de Qualidade de Softwares e Consultora de TI`**
+**`QA - Analista de Qualidade de Softwares | Consultora de TI`**
 
-Me chamo Marina Cindra, Concluí meu bacharel em Engenharia da Computação e MBA em gestão de projetos de TI. Possuo experiência profissional em: Suporte TI e Consultoria de TI.
-Atualmente desenvolvo projetos automatizados para teste de software, no entanto tenho conhecimento em demais tecnologias, metodologias, ferramentas e desenvolvimento.
-
-Portfolio: https://maricindra.github.io/Portfolio_QA
+Marina Cindra, bacharel em Engenharia da Computação e com MBA em Gestão de Projetos de TI. Iniciei minha carreira nas áreas de Suporte e Consultoria de TI. Atualmente, utilizo essa base sólida para desenvolver projetos de automação de testes de software. Tenho familiaridade com uma variedade de tecnologias, metodologias ágeis e ferramentas de desenvolvimento.
+Portfólio: https://maricindra.github.io/Portfolio_QA
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -19,29 +17,6 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Myslq" 
-    title="Mysql"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-<img 
-    align="left" 
-    alt="Selenium" 
-    title="Selenium"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
-
-<img 
-    align="left" 
     alt="C++" 
     title="C++"
     width="30px" 
@@ -50,11 +25,22 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="JavaScript" 
+    title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+
+### 🤖 Conhecimento de QA:
+
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
 
 <img 
     align="left" 
@@ -66,11 +52,50 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
 
 <img  
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Pytest"
+    title="Pytest" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original-wordmark.svg" />
+
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+
+
+### Conhecimento de Front - End
+
+<img 
+    align="left" 
+    alt="Mysql" 
+    title="Mysql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
+
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+
 
 <img 
     align="left" 
@@ -87,20 +112,6 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
     
 <img 
     align="left" 
@@ -142,13 +153,7 @@ Portfolio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
-<img 
-    align="left" 
-    alt="Cypress" 
-    title="Cypress"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
+
 
 <br/>
 <br/>
