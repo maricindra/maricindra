@@ -176,7 +176,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
-
+<br></br>
 ## Conhecimento em DBA:
 <img 
     align="left" 
