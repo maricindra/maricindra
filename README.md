@@ -31,6 +31,14 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+
 <br><br>
 ### 🤖 Conhecimento de QA:
 
@@ -156,7 +164,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Express" 
     title="Express"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 
@@ -164,7 +172,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Django" 
     title="Django"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 
@@ -172,7 +180,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Next.Js" 
     title="Next.Js"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
 
