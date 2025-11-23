@@ -68,6 +68,14 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
+
+<img 
+    align="left" 
     alt="Docker" 
     title="Docker"
     width="30px" 
@@ -143,6 +151,34 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
+<img 
+    align="left" 
+    alt="Express" 
+    title="Express"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Express/Express-original.svg" />
+
+<img 
+    align="left" 
+    alt="Django" 
+    title="Django"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Django/Django-original.svg" />
+
+<img 
+    align="left" 
+    alt="Next.Js" 
+    title="Next.Js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Nextjs/Nextjs-original.svg" />
+
+    
+
+    
 <br></br>
 ### Conhecimento de Sistemas 
 
@@ -153,6 +189,14 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
 
 
 <br/>
