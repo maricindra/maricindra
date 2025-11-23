@@ -78,7 +78,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Vitest" 
     title="Vitest"
-    width="40x" 
+    width="30x" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 
