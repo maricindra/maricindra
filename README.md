@@ -200,11 +200,19 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Linux" 
-    title="Linux"
+    alt="Ubuntu" 
+    title="Ubuntu"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+
+<img 
+    align="left" 
+    alt="Ubuntu" 
+    title="Ubuntu"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 
 
 <br/>
