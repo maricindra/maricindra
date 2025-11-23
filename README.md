@@ -76,8 +76,8 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Cypress" 
-    title="Cypress"
+    alt="Vitest" 
+    title="Vitest"
     width="40x" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
@@ -138,7 +138,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Vite" 
     title="Vite"
-    width="50px" 
+    width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
 
