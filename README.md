@@ -130,7 +130,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Tailwind CSS" 
     title="Tailwind CSS"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
@@ -138,7 +138,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Vite" 
     title="Vite"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
 
