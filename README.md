@@ -145,6 +145,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 <br><br>
 
 ### Conhecimento de Back-end e Apis
+
 <img 
     align="left" 
     alt="Angular" 
@@ -176,8 +177,10 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="50px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+    
 <br></br>
-## Conhecimento em DBA:
+
+### Conhecimento em DBA:
 <img 
     align="left" 
     alt="Moongose" 
