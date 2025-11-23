@@ -132,7 +132,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     title="Tailwind CSS"
     width="60px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img 
     align="left" 
