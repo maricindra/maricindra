@@ -5,7 +5,7 @@
 Marina Cindra, bacharel em Engenharia da Computação e com MBA em Gestão de Projetos de TI. Iniciei minha carreira nas áreas de Suporte e Consultoria de TI. Atualmente, utilizo essa base sólida para desenvolver projetos de automação de testes de software. Tenho familiaridade com uma variedade de tecnologias, metodologias ágeis e ferramentas de desenvolvimento.
 Portfólio: https://maricindra.github.io/Portfolio_QA
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens
 
 <img 
     align="left" 
@@ -82,6 +82,14 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 <br><br>
 ### Conhecimento de Front - End
 
@@ -126,14 +134,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 
 <br><br>
-
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 ### Conhecimento de Back-end e Apis
 <img 
