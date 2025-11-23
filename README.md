@@ -52,6 +52,15 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>
+
+
+<img 
+    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
