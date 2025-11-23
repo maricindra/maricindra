@@ -99,6 +99,15 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
+<img 
+    align="left" 
+    alt="Github Actions" 
+    title="Github Actions"
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" />
+
+
 <br><br>
 ### Conhecimento de Front - End
 
@@ -253,8 +262,8 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Ubuntu" 
-    title="Ubuntu"
+    alt="Windows" 
+    title="Windows"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
