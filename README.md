@@ -158,7 +158,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     title="Express"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Express/Express-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" />
 
 <img 
     align="left" 
@@ -166,7 +166,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     title="Django"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Django/Django-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
 
 <img 
     align="left" 
@@ -174,7 +174,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     title="Next.Js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Nextjs/Nextjs-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
 
     
 
