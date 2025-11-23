@@ -78,7 +78,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     align="left" 
     alt="Cypress" 
     title="Cypress"
-    width="30px" 
+    width="40x" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 
