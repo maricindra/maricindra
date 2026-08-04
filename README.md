@@ -84,7 +84,8 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
-<br><br>
+<br>
+
 ### Ferramentas de Desenvolvimento:
 <img 
     align="left" 
@@ -93,12 +94,9 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-
-<br><br>
 <br><br>
 ### Conhecimento de Front - End
-<br><br>
+<br>
 <img 
     align="left" 
     alt="HTML"
