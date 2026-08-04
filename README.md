@@ -42,7 +42,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 
 <br><br>
-### 🤖 Conhecimento de QA:
+### 🤖 Conhecimento de Testes:
 
 <img 
     align="left" 
@@ -85,7 +85,7 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" /> 
 
-
+### Ferramentas de Desenvolvimento:
 <img 
     align="left" 
     alt="Git" 
@@ -93,14 +93,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img 
-    align="left" 
-    alt="Github Actions" 
-    title="Github Actions"
-    width="40px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-plain-wordmark.svg" />
 
 
 <br><br>
@@ -250,21 +242,15 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 
 <br/>
-<br/>
 
-### 📊 Estatísticas de Conhecimento
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=maricindra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="200" 
+## Estatistica:
+
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats.vercel.app/api?username=maricindra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
+/>
+
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricindra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
   />
 </p>
