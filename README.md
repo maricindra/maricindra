@@ -2,7 +2,9 @@
 
 **`QA - Analista de Qualidade de Softwares | Consultora de TI`**
 
-Marina Cindra, bacharel em Engenharia da Computação e com MBA em Gestão de Projetos de TI. Iniciei minha carreira nas áreas de Suporte e Consultoria de TI. Atualmente, utilizo essa base sólida para desenvolver projetos de automação de testes de software. Tenho familiaridade com uma variedade de tecnologias, metodologias ágeis e ferramentas de desenvolvimento.
+Marina Cindra, bacharel em Engenharia da Computação, MBA em Gestão de Projetos de TI Cursando Pós Graduação em Engenharia de Software.
+Iniciei minha carreira nas áreas de Suporte e Consultoria de TI. Atualmente, utilizo essa base sólida para desenvolver projetos.
+Tenho familiaridade com uma variedade de tecnologias, Linguagens, metodologias ágeis e ferramentas.
 Portfólio: https://maricindra.github.io/Portfolio_QA
 
 ### 🤖 Linguagens
@@ -52,15 +54,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg"/>
-
-
-<img 
-    align="left" 
     alt="Postman" 
     title="Postman"
     width="30px" 
@@ -83,13 +76,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />
 
-<img 
-    align="left" 
-    alt="Vitest" 
-    title="Vitest"
-    width="30x" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" />
 
 <img 
     align="left" 
@@ -160,13 +146,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original-wordmark.svg" />
 
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
     
 <img 
     align="left" 
@@ -180,14 +159,6 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 <br><br>
 
 ### Conhecimento de Back-end e Apis
-
-<img 
-    align="left" 
-    alt="Angular" 
-    title="Angular"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 
 <img 
     align="left" 
@@ -281,19 +252,20 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas de Conhecimento
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=maricindra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricindra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+    src="https://github-readme-stats.vercel.app/api?username=maricindra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+  />
+  <img 
+    align="left" 
+    alt="Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricindra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
+  />
 </p>
 
