@@ -243,20 +243,3 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 <br/>
 
-## Estatistica:
-
-async function fetchGithubRepoCount() {
-  try {
-    const response = await fetch('https://api.github.com/users/maricindra');
-    const data = await response.json();
-    console.log(`Total de repositórios públicos: ${data.public_repos}`);
-    
-    // Exemplo de como inserir no DOM:
-    // document.getElementById('total-repos').textContent = data.public_repos;
-  } catch (error) {
-    console.error('Erro ao buscar dados do GitHub:', error);
-  }
-}
-
-fetchGithubRepoCount();
-
