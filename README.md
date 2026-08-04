@@ -245,13 +245,5 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 ## Estatistica:
 
-<img 
-  alt="GitHub Stats" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api?username=maricindra&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&count_private=true"
-/>
-
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=maricindra&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
+<img src="https://img.shields.io/github/repos/public/maricindra?style=for-the-badge&logo=github&label=Projetos&color=7aa2f7&labelColor=1a1b26" alt="Total de Repositórios" />
 
