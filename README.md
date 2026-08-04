@@ -96,8 +96,9 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 
 <br><br>
+<br><br>
 ### Conhecimento de Front - End
-
+<br><br>
 <img 
     align="left" 
     alt="HTML"
