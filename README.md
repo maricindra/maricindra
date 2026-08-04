@@ -245,5 +245,18 @@ Portfólio: https://maricindra.github.io/Portfolio_QA
 
 ## Estatistica:
 
-<img src="https://img.shields.io/github/repos/public/maricindra?style=for-the-badge&logo=github&label=Projetos&color=7aa2f7&labelColor=1a1b26" alt="Total de Repositórios" />
+async function fetchGithubRepoCount() {
+  try {
+    const response = await fetch('https://api.github.com/users/maricindra');
+    const data = await response.json();
+    console.log(`Total de repositórios públicos: ${data.public_repos}`);
+    
+    // Exemplo de como inserir no DOM:
+    // document.getElementById('total-repos').textContent = data.public_repos;
+  } catch (error) {
+    console.error('Erro ao buscar dados do GitHub:', error);
+  }
+}
+
+fetchGithubRepoCount();
 
