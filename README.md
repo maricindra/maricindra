@@ -5,7 +5,7 @@
 Marina Cindra, bacharel em Engenharia da Computação, MBA em Gestão de Projetos de TI Cursando Pós Graduação em Engenharia de Software.
 Iniciei minha carreira nas áreas de Suporte e Consultoria de TI. Atualmente, utilizo essa base sólida para desenvolver projetos.
 Tenho familiaridade com uma variedade de tecnologias, Linguagens, metodologias ágeis e ferramentas.
-Portfólio: https://maricindra.github.io/Portfolio_QA
+Portfólio: https://maricindra.github.io/portfolio_2/
 <br></br>
 ### 🤖 Linguagens
 
